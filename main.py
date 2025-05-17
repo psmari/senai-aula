@@ -1,1 +1,3 @@
-print('Hello Git!')
+import cat
+
+cat.getCat(filename='cat')
